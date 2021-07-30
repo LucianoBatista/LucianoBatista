@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on Studos/ArcoTech as a 🐍Python/R Developer, helping the company to build great **Data Products.**
 - 🌱 I’m currently learning about `shiny` development.
