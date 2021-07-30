@@ -18,8 +18,7 @@
   <img align="left" alt="Luciano's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <br>
-
-### Some Stats
+<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LucianoBatista&show_icons=true&theme=gotham" alt="Luciano's GitHub stats" />
   
