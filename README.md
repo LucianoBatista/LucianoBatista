@@ -17,6 +17,10 @@
 <a href="https://open.spotify.com/user/731pr635y3tksh96r18sr7myn?si=d3a0676515d44e83">
   <img align="left" alt="Luciano's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://app.pluralsight.com/profile/luciano-batista">
+  <img align="left" alt="Luciano's Spotify" width="22px" src="https://raw.githubusercontent.com/LucianoBatista/LucianoBatista/main/assets/pluralsight.svg" />
+</a>
+
 <br>
 <br>
 
