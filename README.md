@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working at Studos/ArcoTech as a 🐍Python/R Developer, helping the company to build great **Data Products.**
-- 🌱 I’m currently learning about `shiny` development and how to improve business value using **Data Science** stack at **TERA**.
+- 🌱 You can access what I'm currently learning on my [Study-Sprints](https://github.com/LucianoBatista/study-sprints) repository.
 - 👯 I’m looking to collaborate on open source community as a retribution of such great free resources available on internet.  
 - 💬 Ask me about Data Science stuffs, I love to talk about it and actually have a blog where I share some thoughts/projects/tutorials/ideas 👇:
   - [Blog](https://www.lobdata.com.br)
