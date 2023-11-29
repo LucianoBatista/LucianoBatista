@@ -9,10 +9,10 @@
 ### More about me 🤓
 
 <a href="https://twitter.com/Luciano_Bats3">
-  <img align="left" alt="Luciano B | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Luciano B | Twitter" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lucianobatistads/">
-  <img align="left" alt="Luciano's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Luciano's LinkedIN" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/731pr635y3tksh96r18sr7myn?si=d3a0676515d44e83">
   <img align="left" alt="Luciano's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" />
